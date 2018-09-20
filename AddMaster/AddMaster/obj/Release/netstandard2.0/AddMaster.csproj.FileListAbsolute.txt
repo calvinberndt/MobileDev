@@ -1,0 +1,11 @@
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/bin/Release/netstandard2.0/AddMaster.deps.json
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/bin/Release/netstandard2.0/AddMaster.dll
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/bin/Release/netstandard2.0/AddMaster.pdb
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/AddMaster.csproj.CoreCompileInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/AddMaster.AssemblyInfoInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/AddMaster.AssemblyInfo.cs
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/XamlC.stamp
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/AddMaster.dll
+/Users/calvinberndt/FVTC/MobileDev/AddMaster/AddMaster/obj/Release/netstandard2.0/AddMaster.pdb

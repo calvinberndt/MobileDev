@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8E4E0E04-A23E-43B3-98C0-41AFB9228FD9}|Default">
+  <MonoDevelop.Ide.ItemProperties.AddMaster.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../AgeMaster/AgeMaster/AgeMaster.xaml">
+    <Files>
+      <File FileName="../AgeMaster/AgeMaster/AgeMaster.xaml.cs" Line="19" Column="13" />
+      <File FileName="../AgeMaster/AgeMaster/AgeMaster.xaml" Line="19" Column="9" />
+      <File FileName="AddMaster/MainPage.xaml" Line="6" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AddMaster.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.43B5631D-A398-487C-9C2C-5E83EC56543E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.csprojAssemblyReference.cache
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.csproj.CoreCompileInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.AssemblyInfoInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.AssemblyInfo.cs
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/bin/Debug/netstandard2.0/AgeMaster.deps.json
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/bin/Debug/netstandard2.0/AgeMaster.dll
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/bin/Debug/netstandard2.0/AgeMaster.pdb
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.dll
+/Users/calvinberndt/FVTC/MobileDev/AgeMaster/AgeMaster/obj/Debug/netstandard2.0/AgeMaster.pdb
