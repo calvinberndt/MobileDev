@@ -25,7 +25,7 @@
         <StackLayout Orientation="Horizontal" Padding="0,25,0,0">
             <Button Text="Add" HorizontalOptions="FillAndExpand" Clicked="Add_Clicked"/>
             <Button Text="Clear"  HorizontalOptions="FillAndExpand" Clicked="Clear_Clicked"/>
-
         </StackLayout>
+        
     </StackLayout>
 </ContentPage>

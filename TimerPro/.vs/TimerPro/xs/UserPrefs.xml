@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4F6F69E6-8154-436A-9D28-9AD1A38C8ED9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimerPro/MainPage.xaml">
+    <Files>
+      <File FileName="TimerPro/MainPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="TimerPro/MainPage.xaml" Line="6" Column="19" />
+      <File FileName="TimerPro.iOS/Resources/LaunchScreen.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TimerPro.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TimerPro.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A6A27D2-6BFC-4109-AB8C-398ABF66AC73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

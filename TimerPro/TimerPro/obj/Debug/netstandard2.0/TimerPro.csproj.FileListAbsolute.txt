@@ -1,0 +1,12 @@
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.csprojAssemblyReference.cache
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.csproj.CoreCompileInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.AssemblyInfoInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.AssemblyInfo.cs
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/bin/Debug/netstandard2.0/TimerPro.deps.json
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/bin/Debug/netstandard2.0/TimerPro.dll
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/bin/Debug/netstandard2.0/TimerPro.pdb
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.dll
+/Users/calvinberndt/FVTC/MobileDev/TimerPro/TimerPro/obj/Debug/netstandard2.0/TimerPro.pdb

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{366BC69B-63C2-4609-922D-D34E144F1466}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prjTimerPro/Custom/cTimerLogic.cs">
+    <Files>
+      <File FileName="prjTimerPro/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="prjTimerPro/MainPage.xaml" Line="8" Column="9" />
+      <File FileName="prjTimerPro/Custom/cTimerLogic.cs" Line="20" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.prjTimerPro.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.prjTimerPro.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6257021C-3D3C-4772-B090-9EA7DB4CE107" />
+  <MultiItemStartupConfigurations />
+</Properties>

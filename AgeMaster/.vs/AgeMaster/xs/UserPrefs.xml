@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{EA501436-2029-4838-8633-F961955C2C42}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AgeMaster/AgeMaster.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../LIFX/lifxcontrolcenter/lifxcontrolcenter.iOS/Main.cs">
     <Files>
-      <File FileName="AgeMaster/AgeMaster.xaml.cs" Line="19" Column="13" />
-      <File FileName="AgeMaster/AgeMaster.xaml" Line="19" Column="9" />
+      <File FileName="AgeMaster/AgeMaster.xaml.cs" Line="23" Column="18" />
+      <File FileName="AgeMaster/AgeMaster.xaml" Line="17" Column="32" />
       <File FileName="../AddMaster/AddMaster/MainPage.xaml" Line="6" Column="14" />
+      <File FileName="../../LIFX/lifxcontrolcenter/lifxcontrolcenter.iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,7 +12,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AgeMaster.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AgeMaster.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.AgeMaster.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.43B5631D-A398-487C-9C2C-5E83EC56543E" />
 </Properties>

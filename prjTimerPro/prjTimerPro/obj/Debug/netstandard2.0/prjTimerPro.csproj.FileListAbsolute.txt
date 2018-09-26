@@ -1,0 +1,12 @@
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/bin/Debug/netstandard2.0/prjTimerPro.deps.json
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/bin/Debug/netstandard2.0/prjTimerPro.dll
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/bin/Debug/netstandard2.0/prjTimerPro.pdb
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/prjTimerPro.csprojAssemblyReference.cache
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/prjTimerPro.csproj.CoreCompileInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/prjTimerPro.AssemblyInfoInputs.cache
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/prjTimerPro.AssemblyInfo.cs
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/prjTimerPro.dll
+/Users/calvinberndt/FVTC/MobileDev/prjTimerPro/prjTimerPro/obj/Debug/netstandard2.0/prjTimerPro.pdb
